@@ -1,5 +1,5 @@
 body {
-    background-color: lightgray;
+    background-color: #c9dfe5;
 }
 
 
@@ -12,6 +12,71 @@ form {
 }
 
 
+#name {
+    display: inline-block;   
+    width: 50%;
+    box-sizing: border-box;
+    
+}
 
 
+#company {
+    display: inline-block;
+    width: 50%;
+    box-sizing: border-box;
+}
 
+#phone {
+    display: inline-block;
+    width: 33%;
+    box-sizing: border-box;
+}
+
+#email {
+    display: inline-block;
+    width: 33%;
+    box-sizing: border-box;
+}
+
+#availability {
+    display: inline-block;
+    width: 33%;
+    box-sizing: border-box;
+    margin-right: 0px;
+}
+
+#skills {
+    display: inline-block;
+    width: 25%;
+    box-sizing: border-box;
+}
+
+#years {
+    display: inline-block;
+    width: 25%;
+    box-sizing: border-box;
+}
+
+#favorite {
+    display: inline-block;
+    width: 25%;
+    box-sizing: border-box;
+}
+
+#language {
+    display: inline-block;
+    width: 25%;
+    box-sizing: border-box;
+    
+}
+
+input {
+    height: 1.1em;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+section {
+    border: 1px solid lightgray;
+}
