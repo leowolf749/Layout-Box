@@ -57,7 +57,7 @@ form {
 
 #years {
     display: inline-block;
-    width: 25%;
+    width: 25%;   
     box-sizing: border-box;
 }
 
@@ -76,10 +76,10 @@ form {
 
 input {
     height: 1.1em;
-    width: 230px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
     background: transparent;
     border: none;
 
@@ -92,11 +92,12 @@ input {
     
 }
 
+
 .button {
     color: white;
     background-color:#6abc47;
-    height: 30px;
-    width: 350px;
+    width: 40%;
+    height: 60%;
 }
 
 
