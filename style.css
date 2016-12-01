@@ -1,5 +1,6 @@
 body {
     background-color: #c9dfe5;
+    
 }
 
 
@@ -75,18 +76,27 @@ form {
 
 input {
     height: 1.1em;
+    width: 230px;
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
-    outline: none;
+    background: transparent;
+    border: none;
 
 }
 
 #submit {
     display: flex;
     justify-content: center;
-    padding: 18px;
+    padding: 15px;
     
+}
+
+.button {
+    color: white;
+    background-color:#6abc47;
+    height: 30px;
+    width: 350px;
 }
 
 
